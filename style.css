@@ -1,0 +1,41 @@
+body {
+    background-color: #dddddc;
+}
+.butt{
+    background-color: #e08f2c;
+    width: 50px;
+    min-height: 50px;
+    font-size: 20px;
+}
+.butt_operation{
+    background-color: #ea8d89;
+}
+.title{
+    text-align: center;
+}
+.output{
+    border: 10px;
+    max-width: 210px;
+    min-height: 25px;
+    width: 100%;
+    border: solid 2px;
+    padding: 0px 10px 10px 0px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    font-weight: bold;
+    overflow-x: scroll;
+}
+.calculator{
+    border: solid 2px;
+    padding: 10px;
+    max-width: 225px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.butt_table{
+    margin-left: auto;
+    margin-right: auto;
+}
