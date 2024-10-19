@@ -13,14 +13,16 @@ body {
 .butt_operation{
     background-color: #ea8d89;
 }
-.title{
-    text-align: center;
+.container{
 
+    width: 100%;
+    height: 100%;
+    padding: 100px 0px 100px 0px;
 }
 .output{
     border: 10px;
     max-width: 200px;
-    min-height: 35px;
+    height: 45px;
     width: 100%;
     padding: 0px 10px 0px 0px;
     margin-bottom: 30px;
@@ -42,8 +44,7 @@ body {
     background-color: #2a3b5c;
     box-shadow: 0px 0px 10px black;
     border-radius: 10px;
-    margin-top: auto;
-    margin-bottom: auto;
+    
 }
 .butt_table{
     margin-left: auto;
